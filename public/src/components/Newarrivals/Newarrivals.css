@@ -1,0 +1,44 @@
+.arrival-container{
+    margin: 20px;
+}
+.product--image {
+    width: 200px;
+    height: 170px;
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(20, 29, 201, 0.784);
+    max-width: 200px;
+    max-height: 270px;
+    align-items: center;
+    text-align: center;
+    margin: auto 1rem;
+    font-family: arial;
+  }
+  .price {
+    color: rgb(121, 175, 255);
+    font-size: 22px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #1D97FD;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    color: #035faa;
+    opacity: 0.9;
+  }
+
+  h1{
+    color: #1D97FD;
+  }
+  h4{
+    color: #035faa;
+  }

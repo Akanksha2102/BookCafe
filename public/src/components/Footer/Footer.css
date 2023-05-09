@@ -1,0 +1,14 @@
+.footer {
+    color: rgb(0, 0, 0);
+    background-color: #1D97FD;
+    padding-top: 3em;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  h4{
+    color: blue;
+  }
+ /* .copyright{
+    background-color: blue;
+ }  */
